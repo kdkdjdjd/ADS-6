@@ -46,7 +46,6 @@ class TPQueue {
         delete[] arr;
     }
 };
-};
 
 struct SYM {
   char ch;
